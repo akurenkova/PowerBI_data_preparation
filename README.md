@@ -1,7 +1,8 @@
 # PowerBI_data_preparation
 Graduate course project with data preparation in PowerBI
 
-In this course I learned to 
+In this course I learned to
+
 •	Prepare data for analysis and reporting
 •	Extract, clean, and transform data
 
